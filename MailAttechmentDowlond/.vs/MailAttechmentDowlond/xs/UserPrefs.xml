@@ -1,0 +1,39 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{BF8AEB8E-F904-4335-8ED8-44F60E0AE380}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mehmetyalniz/Projects/MailAttechmentDowlond/MailAttechmentDowlond/Controllers/WeatherForecastController.cs" relfile="MailAttechmentDowlond/Controllers/WeatherForecastController.cs" line="133" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MailAttechmentDowlond PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MailAttechmentDowlond/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="MailAttechmentDowlond/Controllers/WeatherForecastController.cs" Line="167" Column="56" />
+      <File FileName="MailAttechmentDowlond/Models/MailAttachment.cs" />
+      <File FileName="MailAttechmentDowlond/Models/MailAttachmentDownloaderResponce.cs" />
+      <File FileName="MailAttechmentDowlond/Models/Mail.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MailAttechmentDowlond" expanded="True">
+            <Node name="MailAttechmentDowlond" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
